@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#text{
+    color: white;
+    margin-bottom: 0px;
+}
+
+#smalltxt{
+    color: rgb(194, 194, 194);
+}
+
+#coverter{
+    margin: 0 auto;
+    width:250px;
+    text-align: center;
+    display:inline-block;
+}
+
+#rp{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    margin-bottom: 10%;
+    border: 1px solid rgb(255, 255, 255);
+    margin:0 0.3em 0.3em 0;
+    background: white;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    text-align:center;
+}
+#button{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    margin-bottom: 10%;
+    border: 1px solid rgb(255, 255, 255);
+    margin:0 0.3em 0.3em 0;
+    background: white;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+#button:hover{
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+#vastused{
+    color: black;
+    background:white;
+    padding:0.2em 1.2em;
+    margin-top: 50px;
+    border:0.1em solid #FFFFFF;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    text-align:center;
+    transition: all 0.2s;
+    
+}
